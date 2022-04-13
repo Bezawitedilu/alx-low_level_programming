@@ -6,7 +6,7 @@
  * Return: nothing.
  */
 
-void print_times_table(int n)
+void print_times_table(2)
 {
 	int row, col;
 	int mult = 0;
@@ -48,4 +48,4 @@ void print_times_table(int n)
 			_putchar('\n');
 		}
 	}
-}}
+}
