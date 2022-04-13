@@ -5,12 +5,12 @@ int _putchar(char c);
 /**
  * print_times_table - print the times table until n
  *
- * @n: n times table
+ * @n: n times_table
  *
  * Return: No return
  */
 
-void times_table(int n)
+void print_times_table(int n)
 {
 	int i;
 	int j;
