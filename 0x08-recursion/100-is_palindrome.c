@@ -6,7 +6,7 @@
  *Return:length
  *
  */
-int _strlen_p(char *s)
+int is_prime_number(int n)
 {
         if (!*s)
         {
